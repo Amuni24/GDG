@@ -1,1 +1,0 @@
-GDG HTML Project
